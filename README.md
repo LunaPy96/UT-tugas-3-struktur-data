@@ -1,4 +1,4 @@
 ﻿# UT-tugas-3-struktur-data
-Nama \t : Lubna Abidah <br>
-NIM \t : <br>
-UPBJJ \t : UT Bandar Lampung <br>
+Nama &emsp; : Lubna Abidah <br>
+NIM &emsp; : 05778644<br>
+UPBJJ &emsp; : UT Bandar Lampung <br>
